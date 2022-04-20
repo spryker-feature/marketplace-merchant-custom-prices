@@ -1,0 +1,19 @@
+{
+    "name": "spryker-feature/marketplace-merchant-custom-prices",
+    "description": "Marketplace Merchant Custom Prices [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.4"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202204.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/merchant-custom-prices": "Recommended feature dependency."
+    }
+}
