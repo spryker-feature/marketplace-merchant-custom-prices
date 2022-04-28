@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant Custom Prices
 
-
+A 3rd party merchant can define custom prices for specific business units of B2B customers via Merchant Portal Product Price UI.
 
 ## Installation
 
