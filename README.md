@@ -2,6 +2,8 @@
 
 A 3rd party merchant can define custom prices for specific business units of B2B customers via Merchant Portal Product Price UI.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/price-management/202307.0/marketplace/marketplace-merchant-custom-prices-feature-overview.html)
+
 ## Installation
 
 ```
