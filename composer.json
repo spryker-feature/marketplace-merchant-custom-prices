@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker/price-product": "^4.43.0",
         "spryker/price-product-merchant-relationship": "^1.10.0",
         "spryker/price-product-merchant-relationship-merchant-portal-gui": "^2.0.0",
