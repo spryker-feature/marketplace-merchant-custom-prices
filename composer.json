@@ -9,8 +9,8 @@
         "php": ">=8.2",
         "spryker/price-product": "^4.50.0",
         "spryker/price-product-merchant-relationship": "^1.12.0",
-        "spryker/price-product-merchant-relationship-merchant-portal-gui": "^2.1.0",
-        "spryker/product-merchant-portal-gui": "^4.9.0"
+        "spryker/price-product-merchant-relationship-merchant-portal-gui": "^3.0.0",
+        "spryker/product-merchant-portal-gui": "^5.0.0"
     },
     "extra": {
         "branch-alias": {
